@@ -1,7 +1,7 @@
 name: MakeThis
 favicon: null
 layout_spectrum: 0.7909738083835691
-typography_spectrum: 0.30846924567595124
+typography_spectrum: 0.72133
 title: design studio
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6868747293483466
+    - '#b9d4f3'
+    - '#006fc5'
+    - '#000000'
+    - '#56a4e4'
+    - '#ff9818'
+  brandStrength: 0.6875
   lightness: 0.43010710435919464
   saturation: 0.8827303336001933
   rhythmicContrast: 0.5770034268498421
