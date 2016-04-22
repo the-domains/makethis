@@ -1,29 +1,41 @@
-name: MakeThis
-favicon: null
-layout_spectrum: 0.23351
-typography_spectrum: 0.48614
 title: MAKE THIS
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9677419
+  brandStrength: 0.7222222
+  lightness: 0.08781362
   brandColors:
     - '#cfcfcf'
     - '#ababab'
     - '#5f5f5f'
     - '#818181'
     - '#1e1e1e'
-  brandStrength: 0.3125
-  lightness: 0.375
-  saturation: 0.8125
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: MakeThis
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.48614
+layout_spectrum: 0.8351254
